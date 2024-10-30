@@ -1,0 +1,12 @@
+{
+	"image": "mcr.microsoft.com/devcontainers/universal:2",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-vscode.cpptools-extension-pack",
+				"VOSCA.vscode-v-analyzer",
+				"vscode-icons-team.vscode-icons"
+			]
+		}
+	}
+}
